@@ -1,0 +1,8 @@
+git clone <url>
+git add <filename>
+git commit -m "message"
+git status
+git push ( changes get pushed to github)
+git commit -am "message" (add all files and commit"
+git pull
+touch (creates a new file)
